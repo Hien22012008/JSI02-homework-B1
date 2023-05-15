@@ -1,0 +1,29 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: rgb(2, 121, 81);
+}
+
+.container {
+    background-color: rgb(134, 220, 191);
+    width: 400px;
+    margin: 50px auto;
+    border-radius: 5px;
+    font-size: 15px;
+}
+
+button {
+    background-color: aquamarine;
+}
+
+.info-infected {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 30vh;
+    padding: 80px 50px;
+}
